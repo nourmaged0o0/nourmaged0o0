@@ -145,23 +145,13 @@ class NourMaged:
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=nourmaged0o0&theme=radical&hide_border=true&include_all_commits=true&count_private=true&show_icons=true" height="170" />
+<img src="https://github-readme-stats-seven-ecru-80.vercel.app/api?username=nourmaged0o0&theme=radical&hide_border=true&show_icons=true" height="170" />
 &nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nourmaged0o0&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact" height="170" />
+<img src="https://github-readme-stats-seven-ecru-80.vercel.app/api/top-langs/?username=nourmaged0o0&theme=radical&hide_border=true&layout=compact" height="170" />
 
 <br/><br/>
 
 <img src="https://streak-stats.demolab.com/?user=nourmaged0o0&theme=radical&hide_border=true" height="170" />
-
-</div>
-
----
-
-## 🏅 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=nourmaged0o0&theme=radical&no-frame=true&no-bg=false&margin-w=6&column=7" />
 
 </div>
 
@@ -172,7 +162,7 @@ class NourMaged:
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nourmaged0o0/nourmaged0o0/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nourmaged0o0/nourmaged0o0/output/github-snake.svg" />
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/nourmaged0o0/nourmaged0o0/output/github-snake.svg" />
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/nourmaged0o0/nourmaged0o0/output/github-snake.svg" width="100%" />
 </picture>
 
 </div>
